@@ -86,3 +86,6 @@ Contributors:
 This project is licensed under the **MIT License**.  
 Feel free to use, fork, and contribute!
 
+WARNING :
+This tool is only for educational and practicing purposes. If you use this tool for purposes other except education, we will not be responsible in such cases.
+
