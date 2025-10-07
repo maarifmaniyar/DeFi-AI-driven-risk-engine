@@ -1,3 +1,5 @@
+[![10.5281/zenodo.17287533](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+
 # DeFi-AI-driven-risk-engine
 AI-Driven Decentralized Financial Risk Engine with estimated Visualization
 
